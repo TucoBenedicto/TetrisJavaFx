@@ -1,4 +1,4 @@
-package com.example.tetris_tuto;
+package com.example.tetris;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Timer;
@@ -16,10 +16,6 @@ import javafx.scene.shape.Line;
 import javafx.scene.shape.Rectangle;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
-
-
-import java.io.IOException;
-import java.text.Normalizer;
 
 public class Tetris extends Application {
 
